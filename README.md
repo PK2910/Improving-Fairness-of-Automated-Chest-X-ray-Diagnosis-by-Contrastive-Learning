@@ -1,1 +1,1 @@
-#1 Chest X-ray Contrastive Learning for Bias Mitigation
+# H1 Imporving Fairness of Automated Chest X ray Diagnosis by Contrastive Learning
